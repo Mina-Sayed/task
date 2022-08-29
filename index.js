@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-let regEx = /help/gi
+let regEx = /\bhelp\b/gi
 
 let matches;
 
